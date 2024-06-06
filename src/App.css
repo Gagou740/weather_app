@@ -1,0 +1,12 @@
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+
+
+.current-weather,
+.air-pollution {
+  width: 48%; 
+  box-sizing: border-box;
+}
